@@ -1,0 +1,11 @@
+# Ignore system and hidden files
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+*.log
+*.mp4
+/AppData/
+/VirtualBox/
+/iCloudDrive/
+/Videos/
